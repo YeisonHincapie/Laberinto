@@ -4,7 +4,7 @@ Es un reto del curso de Ralidad Aumentada del programa Talentoespecializado de l
 Este reto consitia en desarrollar un minijuego con interaciones basicas a partir de Unity para poner
 en practica los aprendizajes vitos en el curso.
 
-#Desarrollador
+# Desarrollador
 Yeison Hincapie Oquendo
 Artista Visual y programador
 Yeisonartistavisual@hotmail.com
