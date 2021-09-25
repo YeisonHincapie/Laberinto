@@ -5,6 +5,6 @@ Este reto consitia en desarrollar un minijuego con interaciones basicas a partir
 en practica los aprendizajes vitos en el curso.
 
 # Desarrollador
-Yeison Hincapie Oquendo
-Artista Visual y programador
+Yeison Hincapie Oquendo /
+Artista Visual y programador /
 Yeisonartistavisual@hotmail.com
