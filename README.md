@@ -6,5 +6,5 @@ en practica los aprendizajes vitos en el curso.
 
 # Desarrollador
 Yeison Hincapie Oquendo /
-Artista Visual y programador /
+Artista Visual y Programador /
 Yeisonartistavisual@hotmail.com
